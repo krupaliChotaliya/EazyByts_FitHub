@@ -17,6 +17,7 @@ This project involves building a fitness and wellness platform using Java full-s
 - **CSS** 🎨
 - **JavaScript** ⚙️
 - **Lombok** 📦
+- **MySQL** 📦
 
 ## Project Highlights
 - **Intuitive User Interfaces**:
