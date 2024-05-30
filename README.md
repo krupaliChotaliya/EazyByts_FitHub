@@ -34,11 +34,11 @@ This project involves building a fitness and wellness platform using Java full-s
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/fitness-wellness-platform.git
+   git clone https://github.com/krupaliChotaliya/EazyByts_FitHub.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd fitness-wellness-platform
+   cd EazyByts_FitHub
    ```
 3. **Build the Project**:
    ```bash
